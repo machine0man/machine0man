@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @machine0man
+- 👀 I’m interested in creating video games and solving puzzles.
+- 🌱 I’m currently learning rendering related stuff.
+- 💞️ I’m looking to collaborate on video games projects.
