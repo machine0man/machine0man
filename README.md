@@ -1,11 +1,11 @@
 # Hi there, I'm @machinem0man 👋
 
-I'm a passionate developer who loves to create with Unity and C#. 
+I'm a passionate developer who loves to create things and solutions. 
 
 ## About Me
 💻 Freelancing as a Game/Applications Developer  
 🎓 Graduated in Computer Science from GNDU, Amritsar  
-🌱 Currently studying Cybersecurity  
+🌱 Did Masters in Cybersecurity and doing Computer Applications Development course  
 ❤️ Love coding, gaming, and exploring new technologies
 
 ## Development Tools
