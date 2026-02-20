@@ -1,6 +1,6 @@
 # Harjot Singh (@machinem0man) 👋
 
-Software Developer | Game Developer | Cybersecurity Graduate  
+Software Developer | Game Developer | Data Analyst | Cybersecurity  
 Data Science & Machine Learning Enthusiast  
 
 ---
@@ -81,11 +81,11 @@ Currently expanding into **Data Analytics, Machine Learning, Artificial Intellig
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=machinem0man&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=machine0man&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=machinem0man&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=machine0man&layout=compact&theme=github_dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=machinem0man&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=machine0man&theme=github-dark)
 
 ---
 
